@@ -35,6 +35,12 @@ header nav a {
     text-decoration: none;
 }
 
+.kontakt {
+    display: grid;
+    background-color: blue;
+    border: 1px solid black;
+}
+
 /* .links {
     display: flex;
     justify-content: flex-start;
